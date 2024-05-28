@@ -1,5 +1,9 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/ecumenos-social/error-wrapper v0.0.1 h1:0pwXrtWPpeOrXk47s3QsQsFV7olrPw6A0hX8LlnGous=
+github.com/ecumenos-social/error-wrapper v0.0.1/go.mod h1:X1oGx6aI4ylGMkyK3VhscBaUPee0ed32WI3oYgdkf84=
+github.com/ecumenos-social/schemas v0.0.12 h1:gSmGc92/sc1g51Wj+x1IaCvozOWcbx5jVI7dgyIF/fI=
+github.com/ecumenos-social/schemas v0.0.12/go.mod h1:yhQTZ0KM0vo3I9ozfsC19du6lg9kkRJPU6X+Uc0dj3o=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/matoous/go-nanoid v1.5.0 h1:VRorl6uCngneC4oUQqOYtO3S0H5QKFtKuKycFG3euek=
